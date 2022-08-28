@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #FAF9F6;
+}
+.image-container img {
+    object-fit: cover;
+}
+#loreampart p {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+#form input{
+    padding: 5px 200px 5px 5px;
+    border: none;
+    background-color: #d2d2cf;
+}
+#phoneinput input{
+    padding: 5px 588px 5px 8px;
+    border: none;
+    background-color: #d2d2cf;
+}
+#textareapart {
+    padding: 5px 533px 5px 8px;
+    border: none;
+    background-color: #d2d2cf;
+}
+#buttonradius {
+    border: none;
+    color: #fff;
+    background-color: #E30B5C;
+    border-radius: 15px;
+    padding: 5px 8px;
+    margin-left: 71%;
+    margin-bottom: 80px;
+}
+#liststyle li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+#footercolor {
+    background: #c0c0c0;
+    padding: 50px;
+}
+   
